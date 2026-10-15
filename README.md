@@ -1,3 +1,5 @@
+<img src="icon.png" width="96" alt="GP Farm icon">
+
 # GP Farm – Android app
 
 ## [⬇ Download GP-Farm.apk](https://github.com/DarrenGwende/gp-farm-app/releases/latest/download/GP-Farm.apk)
